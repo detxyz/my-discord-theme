@@ -8,12 +8,6 @@
     }
   ],
   "spec": 2,
-  "fonts": {
-    "primary": {
-      "name": "JetBrainsMono",
-      "source": "https://raw.githubusercontent.com/detxyz/my-discord-theme/refs/heads/main/JetBrainsMono.ttf"
-    }
-  },
   "semanticColors": {
     "ANDROID_RIPPLE": ["#88c0d020"],
     "BACKGROUND_ACCENT": ["#81a1c1"],
