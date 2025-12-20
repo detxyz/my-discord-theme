@@ -70,8 +70,4 @@
     "YELLOW_300": "#ebcb8b",
     "WHITE_500": "#eceff4"
   },
-  "background": {
-      "url": "https://raw.githubusercontent.com/nordtheme/nord/develop/src/assets/nord-aurora.png"
-  },
-  "color": "#2e3440"
 }
