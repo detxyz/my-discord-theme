@@ -70,8 +70,5 @@
     "YELLOW_300": "#e0af68",
     "WHITE_500": "#c0caf5"
   },
-  "background": {
-      "url": "https://raw.githubusercontent.com/FrenzySVR/Kettu-Themes/main/backgrounds/tokyo-night.png"
-  },
   "color": "#1a1b26"
 }
